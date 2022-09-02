@@ -1,0 +1,22 @@
+h1 {
+    color: #0c0570;
+    line-height: 5%;
+}
+h2 {
+    color: green;
+    line-height: 70%;
+}
+h3 {
+    color: yellow;
+    line-height: 5%;
+}
+* {
+    font-family: 'Roboto', 'Helvetica Nue', sans-serif;
+}
+.capion {
+    font-weight: bold;
+}
+body {
+    background-image: url("https://www.kubaslabs.eu/wp-content/uploads/2022/01/7-1.png");
+    background-color: whitesmoke;
+   }
